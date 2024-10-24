@@ -1,0 +1,11 @@
+streamlit 
+requests
+python-dotenv
+openai
+urllib
+gpt_index==0.4.15
+langchain==0.0.96
+PyPDF2
+chromadb
+yt_dlp
+pydantic==1.10.7
